@@ -6,4 +6,7 @@ function happyHolidays(){
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
-funtrion happyHolidayTo()
+funtrion happyHolidayTo(holiday,name)
+{
+  return `Happy ${holiday}, ${name}!`;
+}
